@@ -5,5 +5,5 @@ It is a machine learning project that allows us to predict the ticket cost for t
 
 ![flight](https://github.com/user-attachments/assets/b3e94612-7ba5-46ba-bed5-6311cb557573)
 
-* This repository represents,** "*Flight Price Through Flight Details.*" **
+* This repository represents,**"_Flight Price Through Flight Details._"**
 * With the help of this project we can learn the flight price through the flight details before booking the flight ticket.
